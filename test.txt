@@ -1,2 +1,3 @@
 This is a test file to demonstrate configuration control
 Written on 4th dec
+This is the comment made by Nagabhushan at 12:44 pm.
